@@ -1,0 +1,21 @@
+{
+  "name": "dev-ops-course",
+  "version": "1.0.0",
+  "description": "- I'm adding this from `feature-branch`",
+  "main": "hello.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikitaBenzin/dev-ops-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikitaBenzin/dev-ops-course/issues"
+  },
+  "homepage": "https://github.com/NikitaBenzin/dev-ops-course#readme"
+}
